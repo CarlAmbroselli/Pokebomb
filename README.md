@@ -1,4 +1,4 @@
-#Setup
+#Setup for dummies
 
 1. Go to your Squeak Image, open the folder. (On mac: right click, show package content)
 2. Go to `SwaSqueak.app/Contents/Resources/`
